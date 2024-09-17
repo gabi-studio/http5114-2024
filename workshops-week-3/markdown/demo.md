@@ -27,3 +27,8 @@ This is an unordered list:
 - Item number 3
 
 This is a link to [my github](https://github.com/gabi-studio).
+
+
+##Images
+
+![A cozy illustration of cats](cats.jpg)
