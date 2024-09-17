@@ -1,8 +1,8 @@
 ## Markdown
 
-This is an examples of a Markdown document
+This is an examples of a Markdown document.
 
-## Make a change!
+Make a change!
 
 ## Bold and Italics
 
@@ -25,3 +25,5 @@ This is an unordered list:
 - Item number 1
 - Item number 2
 - Item number 3
+
+This is a link to [my github](https://github.com/gabi-studio).
