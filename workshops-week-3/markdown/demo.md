@@ -29,6 +29,10 @@ This is an unordered list:
 This is a link to [my github](https://github.com/gabi-studio).
 
 
-##Images
+## Images
 
 ![A cozy illustration of cats](cats.jpg)
+
+<p>HTML works inside a markdown file. Since markdown does not resize images, I could just add an image with HTML.</p>
+
+<img src="cats.jpg" alt="cats" width="200">
