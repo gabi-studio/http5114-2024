@@ -36,3 +36,17 @@ This is a link to [my github](https://github.com/gabi-studio).
 <p>HTML works inside a markdown file. Since markdown does not resize images, I could just add an image with HTML.</p>
 
 <img src="cats.jpg" alt="cats" width="200">
+
+
+## Code
+
+We can put inline code by using a tic.
+To add an image, use an `<img>` tag.
+
+You can add multi-line code by using three tics and the name of the coding language:
+
+```
+function test(){
+    console.log("test");
+}
+```
