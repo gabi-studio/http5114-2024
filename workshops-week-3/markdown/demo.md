@@ -50,3 +50,12 @@ function test(){
     console.log("test");
 }
 ```
+
+
+## Tables
+
+| Language  | Rating |
+|-----------|--------|
+|HTML       |5       |
+|Javascript |8       |
+|CSS        |7       |
